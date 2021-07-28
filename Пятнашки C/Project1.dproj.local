@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.886,D:\Универ\Проекты\Пятнашки C\Unit2.dfm=D:\Универ\Проекты\Пятнашки C\uMainForm.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.133,D:\Универ\Проекты\Пятнашки C\fNewGame.dfm=D:\Универ\Проекты\Пятнашки C\Unit2.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.133,D:\Универ\Проекты\Пятнашки C\fNewGame.pas=D:\Универ\Проекты\Пятнашки C\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.886,D:\Универ\Проекты\Пятнашки C\Unit2.pas=D:\Универ\Проекты\Пятнашки C\uMainForm.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.570,=D:\Универ\Проекты\Пятнашки C\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.433,=D:\Универ\Проекты\Пятнашки C\uParameters.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.883,=D:\Универ\Проекты\Пятнашки C\Unit4.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.605,D:\Универ\Проекты\Пятнашки C\Unit4.pas=D:\Универ\Проекты\Пятнашки C\fStatistic.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.967,D:\Универ\Проекты\Пятнашки C\Unit4.pas=D:\Универ\Проекты\Пятнашки C\uRegistry.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.478,D:\Универ\Проекты\Пятнашки C\Unit1.pas=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.352,D:\Универ\Проекты\Пятнашки C\uNewGame.pas=D:\Универ\Проекты\Пятнашки C\fNewGame.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.123,=D:\Универ\Проекты\Пятнашки C\Unit4.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.456,D:\Универ\Проекты\Пятнашки C\Unit3.pas=D:\Универ\Проекты\Пятнашки C\uChangeLayout.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.240,D:\Универ\Проекты\Пятнашки C\fStatistic.pas=D:\Универ\Проекты\Пятнашки C\uStatistic.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.850,=D:\Универ\Проекты\Пятнашки C\Unit3.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.990,D:\Универ\Проекты\Пятнашки C\Unit3.dfm=D:\Универ\Проекты\Пятнашки C\uWin.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.457,D:\Универ\Проекты\Пятнашки C\Unit3.dfm=D:\Универ\Проекты\Пятнашки C\uChangeLayout.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.990,D:\Универ\Проекты\Пятнашки C\Unit3.pas=D:\Универ\Проекты\Пятнашки C\uWin.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.352,D:\Универ\Проекты\Пятнашки C\uNewGame.dfm=D:\Универ\Проекты\Пятнашки C\fNewGame.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.240,D:\Универ\Проекты\Пятнашки C\fStatistic.dfm=D:\Универ\Проекты\Пятнашки C\uStatistic.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.949,=D:\Универ\Проекты\Пятнашки C\uIniFile.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.462,=D:\Универ\Проекты\Пятнашки C\Unit3.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.605,D:\Универ\Проекты\Пятнашки C\Unit4.dfm=D:\Универ\Проекты\Пятнашки C\fStatistic.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.553,D:\Универ\Проекты\Пятнашки C\Unit3.pas=</Transaction>
+    <Transaction>2021.07.28 00:08:11.900,=C:\Users\1\Desktop\Пятнашки C\Unit3.pas</Transaction>
+    <Transaction>2021.07.28 00:08:59.940,C:\Users\1\Desktop\Пятнашки C\About.dfm=C:\Users\1\Desktop\Пятнашки C\Unit3.dfm</Transaction>
+    <Transaction>2021.07.28 00:08:59.940,C:\Users\1\Desktop\Пятнашки C\About.pas=C:\Users\1\Desktop\Пятнашки C\Unit3.pas</Transaction>
+  </Transactions>
+	<ProjectSortOrder AutoSort="0" SortType="0">
+    <File Path="NClass.pas"/>
+    <File Path="uIniFile.pas"/>
+    <File Path="uMainForm.pas"/>
+    <File Path="uMainForm.dfm"/>
+    <File Path="uParameters.pas"/>
+    <File Path="uParameters.dfm"/>
+    <File Path="uStatistic.pas"/>
+    <File Path="uStatistic.dfm"/>
+    <File Path="uNewGame.pas"/>
+    <File Path="uNewGame.dfm"/>
+    <File Path="uWin.pas"/>
+    <File Path="uWin.dfm"/>
+    <File Path="uChangeLayout.pas"/>
+    <File Path="uChangeLayout.dfm"/>
+    <File Path="About.pas"/>
+    <File Path="About.dfm"/>
+  </ProjectSortOrder>
+</BorlandProject>
